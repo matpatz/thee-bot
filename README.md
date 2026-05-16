@@ -5,6 +5,6 @@ add lune:
   rokit add lune
 
 cd unveilr
-lune run main.luau <input_file.luau)
+lune run main.luau <input_file.luau>
 
--- add additional code by claude
+-- claude generated
